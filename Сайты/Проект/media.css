@@ -1,0 +1,957 @@
+@media screen and (max-width: 1700px){
+    .tablet{
+        width: 650px;
+        margin-left: -200px;
+    }
+    .glasses{
+        width: 700px;
+        margin-left: -220px;
+    }
+    .agree-dz{
+        border: 22px solid #F0D527;
+        font-size: 30px;
+    }
+    .agree-dz-text{
+        margin-left: 150px;
+    }
+    .two{
+        width: 1200px;
+        margin: 0 auto !important;
+    }
+    .content{
+        margin-left: 250px;
+    }
+    .footer-logo{
+        left: 25%;
+    }
+    .footer-text p{
+        margin-left: 350px;
+    }
+    .footer-text span{
+        margin-left: 420px;
+    }
+    .img-dollar{
+        width: 550px;
+        height: 450px;
+        margin-right: -150px;
+    }
+}
+ @media screen and (max-width: 1500px){
+    .glasses{
+        width: 650px;
+        margin-left: -210px;
+    }
+    .two{
+        width: 1100px;
+        margin: 0 auto !important;
+    }
+    .agree-dz{
+        border: 22px solid #F0D527;
+        font-size: 30px;
+    }
+    .agree-dz-text{
+        margin-left: 170px;
+    }
+    .tablet{
+        width: 570px;
+        margin-left: -160px;
+    }
+    .content{
+        margin-left: 150px;
+    }
+    .img-dollar{
+        margin-right: -200px;
+        width: 600px;
+        height: 500px;
+    } 
+    .footer-logo{
+        left: 30%;
+    }
+    .footer-text p{
+        margin-left: 400px;
+    }
+    .footer-text span{
+        margin-left: 470px;
+    }
+}
+@media screen and (max-width: 1400px){
+    .work-format h3{
+        font-size: 45px;
+    }
+    .work-format p{
+        font-size: 20px;
+    }
+    .two{
+        width: 1000px !important;
+        margin: 0 auto !important;
+    }
+    .agree-dz i{
+        position: absolute;
+        top: 90px;
+        left: 500px;
+    }
+    .agree-dz-text{
+        margin-left: 100px;
+    }
+    .cooking-dz-text{
+        margin-left: 100px;
+    }
+    .tablet{
+        width: 470px;
+        margin-left: -100px;
+    }
+    .optica{
+        width: 345px;
+        height: 700px;
+        margin-top: -100px;
+        position: absolute;
+        z-index: 50;
+    }
+    .content{
+        margin-left: 100px;
+    }
+    .img-dollar{
+        height: 480px;
+        width: 580px;
+        margin-right: -180px;
+    }
+    .footer-logo{
+        left: 30%;
+    }
+    .footer-text p{
+        margin-left: 400px;
+    }
+    .footer-text span{
+        margin-left: 470px;
+    }
+    .glasses{
+        margin-left: -205px;
+        width: 620px;
+    }
+    .agree-dz i{
+        left: 460px;
+    }
+}
+@media screen and (max-width: 1300px){
+    .content{
+        margin-left: 60px;
+    }
+    .order-h1{
+        font-size: 45pt;
+    }
+    .order-p{
+        font-size: 26pt;
+    }
+    .order-p2{
+        font-size: 23pt;
+    }
+    .img-dollar{
+        margin-right: -100px;
+        height: 680px;
+    }
+    .glasses{
+        margin-left: -190px;
+        margin-top: 60px;
+        width: 580px;
+        height: 250px;
+    }
+    .engine{
+        width: 800px;
+        height: 700px;
+        margin-left: -180px;
+    }
+    .agree-dz i{
+        left: 440px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .content{
+        margin-left: 30px;
+        width: 1335px;
+    }
+    .three, .five, .seven, .eight{
+        margin-left: -30px;
+    }
+    .sales-model-text{
+        width: 50%;
+    }
+    .tool{
+        width: 750px;
+        height: 600px;
+        margin-left: -50px;
+    }
+    .glasses{
+        width: 550px;
+        margin-left: -178px;
+    }
+    .agree-dz, .cooking-dz{
+        border: 20px solid #F0D527;
+    }
+    .study-module-block-1{
+        border-top: 20px solid #F0D527;
+        border-left: 20px solid #F0D527;
+        border-right: 20px solid #F0D527;
+    }
+    .study-module-block-2{
+        border-left: 20px solid #F0D527;
+        border-right: 20px solid #F0D527;
+        border-bottom: 20px solid #F0D527;
+    }
+    .intrude-block-1{
+        border-top: 20px solid #F0D527;
+        border-left: 20px solid #F0D527;
+        border-bottom: 20px solid #F0D527;
+    }
+    .intrude-block-2{
+        border-top: 20px solid #F0D527;
+        border-right: 20px solid #F0D527;
+        border-bottom: 20px solid #F0D527;
+    }
+    .block-2-2{
+        border-bottom: 20px solid #F0D527;
+    }
+    .two{
+        width: 900px !important;
+    }
+    .agree-dz i{
+        left: 380px;
+    }
+    .agree-dz-text{
+        margin-left: 60px;
+    }
+    .engine{
+        width: 650px;
+        height: 600px;
+        margin-left: -130px;
+        margin-top: -180px;
+    }
+    .img-dollar{
+        margin-right: -50px;
+        width: 550px;
+    }
+    .cooking-dz-text{
+        margin-left: 80px;
+    }
+    .cooking-dz i{
+        left: 40px;
+    }
+    .tablet{
+        width: 370px;
+        margin-left: -50px;
+    }
+    .company-pain{
+        margin-left: -20px;
+    }
+    .company-pain-ul-block{
+        margin-left: -10px;
+    }
+}
+@media screen and (max-width: 1100px){
+    .content{
+        width: 1300px;
+        margin-left: 30px;
+    }
+    .header{
+        width: 60%;
+    }
+    .phone-number-block{
+        margin-left: -100px;
+    }
+    .img-dollar{
+        margin-right: 45px;
+        width: 450px;
+    }
+    .company-pain{
+        margin-left: 10px;
+        width: 1250px;
+    }
+    .фигура{
+        margin-left: -150px;
+    }
+    .company-pain-ul-block{
+        margin-left: -140px;
+    }
+    .company-needs{
+        width: 1250px;
+    }
+    .фигура2{
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    .company-needs-h1-block{
+        margin-left: 12px;
+        
+    }
+    .praktikum-h1{
+        margin-left: -250px;
+    }
+    .sales-model-text{
+        width: 44%;
+    }
+    .praktikum-car{
+        width: 600px;
+        margin-top: 50px;
+    }
+    .motivation-p{
+        width: 480px;
+    }
+    .plus-p-sales-model{
+        margin-left: 150px;
+    }
+    .plus-ul-sales-model{
+        margin-left: 180px;
+    }
+    .toolkit-text{
+        width: 40%;
+    }
+    .tool{
+        width: 700px;
+        height: 550px;
+        margin-top: -30px;
+        margin-left: -120px;
+    }
+    .four, .five, .six, .eight{
+        margin-left: -80px;
+    }
+    .three{
+        margin-left: -30px;
+    }
+    .seven{
+        width: 1150px !important;
+        margin-left: -10px; 
+    }
+    .three{
+        width: 1200px;
+    }
+    .chat-text{
+        margin-left: 100px;
+        margin-top: 70px;
+    }
+    .chat-text p{
+        width: 600px;
+    }
+    .figura3{
+        margin-left: 200px;
+    }
+    .two{
+        width: 800px !important;
+    }
+    .optica{
+        margin-left: -30px;
+    }
+    .cooking-dz-text p{
+        width: 300px;
+    }
+    .tablet{
+        margin-left: -110px;
+    }
+    .agree-dz-text p{
+        width: 350px;
+        margin-top: 10px;
+    }
+    .glasses{
+        width: 500px;
+        margin-left: -162px;
+    }
+    .agree-dz i{
+        left: 350px;
+    }
+    .intrude-text{
+        margin-left: 80px;
+    }
+    .intrude-block-1 i{
+        left: 30px;
+    }
+    .engine{
+        width: 550px;
+        height: 550px;
+        margin-top: -130px;
+        margin-left: -125px;
+    }
+    .footer-logo{
+        left: 25%;
+    }
+    .footer-text p{
+        margin-left: 330px;
+    }
+    .footer-text span{
+        margin-left: 400px;
+    }
+}
+@media screen and (max-width: 1000px){
+    .content{
+        margin-left: 30px;
+    }
+    .phone-number-block{
+        margin-left: -200px;
+    }
+    .img-dollar{
+        width: 430px;
+        margin-right: 150px;
+    }
+    .company-pain-h1{
+        font-size: 40px;
+        width: 100px;
+    }
+    .фигура{
+        margin-left: -210px;
+    }
+    .company-pain-ul-block{
+        margin-left: -200px;
+    }
+    .company-needs-h1{
+        font-size: 40px;
+    }
+    .company-needs-h1-block{
+        margin-top: 0;
+        margin-left: -60px;
+    }
+    .sales-model-text{
+        width: 35%;
+    }
+    .sales-model-h3{
+        width: 85%;
+    }
+    .gear{
+        width: 500px;
+    }
+    .motivation-p{
+        width: 380px;
+        margin-bottom: 30px;
+    }
+    .praktikum p{
+        font-size: 18px;
+    }
+    .tool{
+        width: 650px;
+        margin-left: -145px;
+    }
+    .hiring-p{
+        width: 350px;
+    }
+    .lidogeneration-text{
+        width: 40%;
+    }
+    .magnet{
+        margin-left: -70px;
+        margin-top: -50px;
+    }
+    .study-module-span{
+        font-size: 30px;
+    }
+    .big-numbers{
+        font-size: 47px;
+    }
+    .glasses{
+        width: 350px;
+        margin-left: -115px;
+        height: 230px;
+    }
+    .agree-dz, .cooking-dz{
+        border: 15px solid #F0D527;
+    }
+    .study-module-block-1{
+        border-top: 15px solid #F0D527;
+        border-left: 15px solid #F0D527;
+        border-right: 15px solid #F0D527;
+    }
+    .study-module-block-2{
+        border-left: 15px solid #F0D527;
+        border-right: 15px solid #F0D527;
+        border-bottom: 15px solid #F0D527;
+    }
+    .intrude-block-1{
+        border-top: 15px solid #F0D527;
+        border-left: 15px solid #F0D527;
+        border-bottom: 15px solid #F0D527;
+    }
+    .intrude-block-2{
+        border-top: 15px solid #F0D527;
+        border-right: 15px solid #F0D527;
+        border-bottom: 15px solid #F0D527;
+    }
+    .block-2-2{
+        border-bottom: 15px solid #F0D527;
+    }
+    .agree-dz-text{
+        margin-left: 150px;
+    }
+    .agree-dz i{
+        left: 330px;
+    }
+    .three, .five, .six{
+        margin-left: -80px;
+    }
+    .four{
+        margin-left: -120px;
+    }
+    .box{
+        width: 365px;
+    }
+    .program-praktikum-text{
+        width: 40%;
+        margin-top: 100px;
+    }
+    .six{
+        margin-left: -80px;
+    }
+    .why-img-text h1{
+        font-size: 40px;
+    }
+    .why-text{
+        margin-top: 50px;
+    }
+    .seven{
+        margin-left: -30px;
+    }
+    .h1-block-presents{
+        width: 700px;
+        margin-left: 40px;
+    }
+    .box2{
+        width: 500px;
+        height: 520px;
+    }
+    .eight{
+        margin-left: -150px;
+    }
+}
+@media screen and (max-width: 900px){
+    .phone-number-block{
+        margin-left: -300px;
+    }
+    .order-h1{
+        font-size: 35pt;
+    }
+    .order-p{
+        font-size: 25pt;
+    }
+    .order-p2{
+        font-size: 18pt;
+    }
+    .order-date{
+        font-size: 25pt;
+    }
+    .img-dollar{
+        margin-right: 250px;
+        height: 600px;
+    }
+    .company-pain-ul-block{
+        font-size: 15px;
+    }
+    .company-needs-ul-block{
+        font-size: 15px;
+        width: 520px;
+    }
+    .praktikum-car{
+        width: 550px;
+    }
+    .praktikum-h1{
+        margin-left: -370px;
+    }
+    .sales-model-text p{
+        width: 350px;
+    }
+    .sales-model-ul{
+        width: 350px;
+    }
+    .plus-p-sales-model{
+        margin-left: 70px;
+        margin-top: 50px;
+    }
+    .plus-ul-sales-model{
+        margin-left: 100px;
+        width: 250px;   
+    }
+    .standards-text{
+        width: 40%;
+    }
+    .standards-p{
+        width: 540px;
+    }
+    .gear{
+        width: 450px;
+    }
+    .motivation-img{
+        width: 37%;
+    }
+    .rocket{
+        width: 555px;
+    }
+    .tool{
+        width: 520px;
+        margin-left: -125px;
+    }
+    .hiring-img{
+        width: 38%;
+    }
+    .magnet{
+        width: 390px;
+    }
+    .two{
+        width: 700px !important;
+    }
+    .optica{
+        margin-left: -60px;
+    }
+    .empty{
+        width: 50%;
+    }
+    .block-2-text{
+        width: 50%;
+    }
+    .cooking-dz-text p{
+        width: 250px;
+    }
+    .cooking-dz i{
+        left: 30px;
+    }
+    .cooking-dz-text{
+        margin-left: 70px;
+    }
+    .tablet{
+        width: 330px;
+        margin-left: -100px;
+    }
+    .agree-dz i{
+        left: 280px;
+    }
+    .agree-dz-text{
+        margin-left: 100px;
+        margin-top: 75px;
+    }
+    .work-format h3{
+        font-size: 40px;
+    }
+    .chat-text p{
+        width: 450px;
+        font-size: 30px;
+    }
+    .guarante-text p{
+        width: 550px;
+        font-size: 18px;
+    }
+    .program-praktikum-text{
+        width: 30%;
+    }
+    .program-praktikum-text h3{
+        font-size: 45px;
+    }
+    .program-praktikum-text span{
+        font-size: 25px;
+    }
+    .program-praktikum-text p{
+        font-size: 20px;
+        width: 430px;
+    }
+    .price{
+        margin-left: 15px;
+    }
+    .why-img-text h1{
+        font-size: 35px;
+        width: 900px;
+    }
+    .why-text{
+        margin-top: 60px;
+    }
+    .seven{
+        width: 900px !important;
+    }
+    .seven h1{
+        width: 900px;
+    }
+    .eight{
+        margin-left: -200px;
+    }
+    .footer-logo{
+        left: 20%;
+    }
+    .footer-text p{
+        margin-left: 250px;
+    }
+    .footer-text span{
+        margin-left: 320px;
+    }
+}
+@media screen and (max-width: 800px){
+    .phone-number-block{
+        margin-left: -380px;
+    }
+    .img-dollar{
+        margin-right: 340px;
+        width: 350px;
+    }
+    .фигура{
+        margin-left: -300px;
+    }
+    .company-pain-ul-block{
+        margin-left: -290px;
+    }
+    .company-needs-h1-block{
+        margin-left: -120px;
+    }
+    .company-needs-h1{
+        font-size: 35px;
+    }
+    .praktikum-h1{
+        font-size: 55px;
+        margin-left: -470px;
+    }
+    .praktikum-car{
+        width: 500px;
+        height: 300px;
+    }
+    .praktikum h3{
+        font-size: 42px;
+    }
+    .sales-model-h3{
+        width: 70%;
+    }
+    .praktikum p{
+        font-size: 17px;
+    }
+    .praktikum ul{
+        font-size: 16px;
+    }
+    .sales-model-text{
+        margin-left: -130px;
+    }
+    .plus-p-sales-model{
+        margin-left: 130px;
+    }
+    .plus-ul-sales-model{
+        margin-left: 160px;
+    }
+    .standards-p{
+        width: 450px;
+    }
+    .standards-ul-block{
+        width: 80%;
+    }
+    .gear{
+        margin-left: -180px;
+    }
+    .motivation-text{
+        margin-top: -10px;
+        margin-left: -30px;
+    }
+    .motivation-p{
+        width: 300px;
+    }
+    .tool{
+        margin-left: -160px;
+        width: 450px;
+    }
+    .hiring-p{
+        width: 210px;
+    }
+    .lidogeneration-text{
+        width: 35%;
+    }
+    .magnet{
+        width: 300px;
+        margin-left: 0px;
+    }
+    .two{
+        width: 600px !important;
+    }
+    .optica{
+        margin-left: -40px;
+        width: 300px;
+        height: 650px;
+    }
+    .study-module-p{
+        width: 300px;
+    }
+    .cooking-dz-text{
+        margin-top: 80px;
+    }
+    .cooking-dz-text p{
+        font-size: 18px !important;
+        width: 200px;
+    }
+    .tablet{
+        width: 290px;
+        margin-left: -110px;
+    }
+    .agree-dz i{
+        left: 260px;
+    }
+    .agree-dz-text{
+        margin-left: 80px;
+        width: 60%;
+    }
+    .work-format h3{
+        font-size: 30px;
+    }
+    .work-format p{
+        font-size: 18px;
+    }
+    .agree-dz-text p{
+        width: 300px;
+    }
+    .study-module-block-2 i{
+        font-size: 30px;
+        margin-top: 10px;
+    }
+    .intrude-block-1 i{
+        font-size: 30px;
+        top: 85px;
+    }
+    .engine{
+        width: 440px;
+        margin-left: -109px;
+    }
+    .chat-text{
+        margin-left: 80px;
+    }
+    .chat-text p{
+        width: 350px;
+    }
+    .guarante-text p{
+        width: 430px;
+    }
+    .guarante-p2{
+        margin-top: 30px !important;
+    }
+    .box{
+        width: 300px;
+    }
+    .program-praktikum-text{
+        margin-left: 35px;
+    }
+    .why-img-text h1{
+        width: 650px;
+    }
+    .p3{
+        width: 500px;
+    }
+    .seven{
+        width: 750px !important;
+    }
+    .seven h1{
+        width: 750px;
+    }
+    .eight{
+        width: 1150px;
+    }
+    .footer-logo{
+        left: 15%;
+    }
+    .footer-text p{
+        margin-left: 200px;
+    }
+    .footer-text span{
+        margin-left: 270px;
+    }
+}
+@media screen and (max-width: 700px){
+    .phone-number-block{
+        margin-left: -480px;
+    }
+    .img-dollar{
+        margin-right: 440px;
+    }
+    .company-pain-h1{
+        margin-left: -30px;
+    }
+    .фигура{
+        margin-left: -340px;
+    }
+    .company-pain-ul-block{
+        margin-left: -330px;
+        font-size: 13px;
+    }
+    .company-needs-ul-block{
+        margin-left: -20px;
+        font-size: 13px;
+    }
+    .фигура2{
+        margin-left: -15px;
+    }
+    .company-needs-h1-block{
+        margin-left: -150px;
+    }
+    .company-needs-h1{
+        font-size: 26px;
+        width: 200px;
+    }
+    .praktikum-h1{
+        font-size: 45px;
+        margin-left: -600px;
+    }
+    .praktikum h3{
+        font-size: 35px;
+    }
+    .sales-model-h3{
+        width: 300px;
+    }
+    .praktikum p{
+        font-size: 15px;
+    }
+    .praktikum ul{
+        font-size: 14px;
+    }
+    .praktikum-car{
+        width: 450px;
+    }
+    .sales-model-text{
+        margin-left: -200px;
+    }
+    .plus-p-sales-model{
+        margin-left: 120px;
+    }
+    .plus-ul-sales-model{
+        margin-left: 150px;
+        width: 200px;
+    }
+    .standards-p{
+        width: 400px;
+    }
+    .standards-ul-block{
+        width: 70%;
+    }
+    .gear{
+        width: 400px;
+        margin-left: -220px;
+    }
+    .rocket{
+        width: 455px;
+    }
+    .motivation-text{
+        margin-top: 40px;
+        margin-left: -100px;
+    }
+    .motivation-p{
+        width: 290px;
+    }
+    .toolkit-p{
+        width: 350px;
+    }
+    .tool{
+        margin-left: -280px;
+    }
+    .laptop{
+        width: 600px;
+    }
+    .hiring-img{
+        width: 30%;
+    }
+    .lidogeneration-p{
+        width: 300px;
+    }
+    .magnet{
+        width: 400px;
+        margin-left: -200px;
+    }
+    .two{
+        width: 500px !important;
+    }
+    .work-format p{
+        font-size: 15px;
+    }
+    .optica{
+        width: 200px;
+        margin-left: 0px;
+    }
+}

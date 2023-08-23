@@ -1,0 +1,268 @@
+body, div, p,span, li, ul, a, img, h1, h2, h3, button, header{
+	margin: 0;
+	padding: 0;
+}
+.menu{
+	display: flex;
+	height: 6%;
+	font-size: 15pt;
+}
+button{
+	cursor: pointer;
+	transition: 0.2s;
+	box-shadow: 0px 5px 15px #000;
+}
+header{
+	background-image: url(img/HeaderBckg.png);
+	height: 750px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 50px 80px 180px 80px;
+	color: #fff;
+}
+.img-block{
+	width: 33%;
+	height: 100%;
+	display: flex;
+}
+.menu-block{
+	width: 34%;
+	height: 100%;
+	line-height: 35px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+}
+.button-block{
+	width: 33%;
+	height: 100%;
+	text-align: right;
+}
+img{
+	height: 100%;
+}
+.text-block{
+	height: 100%;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 10px;
+}
+.text-block span{
+	font-weight: 900;
+}
+.menu-block ul li{
+	list-style: none;
+	margin-left: 50px;
+}
+.menu-block ul {
+	display: inline-flex;
+}
+a{
+	text-decoration: none;
+	color: #fff;
+}
+.menu-block a:focus{
+	color: #001839;
+}
+.signup{
+	height: 100%;
+	width: 130px;
+	color: #fff;	
+	box-shadow: none;
+	border: 2px #fff solid;
+	border-radius: 3px;	
+	font-size: 12pt;
+	background-color: transparent;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+}
+.signup:hover{
+	color: #002251;
+	background-color: #fff;
+	border: 2px #002251 solid;
+}
+
+.content{
+	display: flex;
+	padding-top: 170px;
+}
+.content h1{
+	font-size: 55pt;
+	width: 70%;
+	text-transform: uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+}
+.content p{
+	font-size: 18pt;
+	width: 75%;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	line-height: 50px;
+}
+.content button{
+	width: 160px;
+	height: 60px;
+	border: none;
+	border-radius: 5px;
+	font-size: 15pt;
+	text-align: center;
+	line-height: 55px;
+}
+.buyNow{
+	background-color: #002251;
+	color: #fff;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	margin-right: 30px;
+}
+.buyNow:hover{
+	color: #002251;
+	background-color: #fff;
+}
+.tryForFree{
+	background-color: #fff;
+	color: #002251;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+.tryForFree:hover{
+	color: #fff;
+	background-color: #002251;
+}
+.content-video-block{
+	display: flex;
+	width: 50%;
+}
+.content img{
+	width: 600pt;
+	height: 320pt;
+}
+.content img:hover{
+	cursor: pointer;
+}
+
+.easy{
+	height: 800px;
+	background-color: #fff;
+	padding: 100px 80px;
+	text-align: center;
+}
+.easy h1{	
+	font-size: 45pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+}
+.easy h2{	
+	font-size: 25pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+	margin: 15px 0 20px 0;
+	color: #7E969F;
+}
+.easy span{
+	font-size: 15pt;
+	color: #7e969f;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+}
+.easy-title-block{
+	margin: 0 auto;	
+	width: 46%;
+}
+.easy-icon-text{
+	display: flex;
+	width: 100%;
+	margin: 100px 0 80px 0;
+}
+.goes{
+	text-align: center;
+	width: 33%;
+	margin-right: 200px;
+}
+.goes:last-of-type{
+	margin-right: 0;
+}
+.goes h3{
+	font-size: 20pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 500;
+	margin: 40px 0 25px 0;
+}
+.goes p{
+	font-size: 15pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	color: #7E969F;
+	margin: 0 auto;
+}
+.goes i{
+	width: 100%;
+	font-size: 70px;
+	color: #F289F2;
+}
+#user{
+	color: #00D9FF;
+}
+.easy button{
+	background-color: #00EAE0;
+	border: none;
+	border-radius: 5px;
+	font-size: 15pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	color: #fff;
+	padding: 20px;
+}
+.easy button:hover{
+	color: #fff;
+	background-color: #002251;
+}
+
+.counts{
+	display: flex;
+	height: 150px;
+	width: 100%;
+}
+.counts span{
+	color: #fff;
+	margin: auto 0 auto 25px;
+	width: 80%;
+	font-size: 20pt;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+}
+.count-block{
+	width: 25%;
+	height: 100%;
+}
+.counts-icon-text{
+	display: flex;	
+	margin-top: 45px;
+	margin-left: 100px;
+}
+.business{
+	background-color: #00D9FF;
+	color: #00D9FF;
+}
+.downloads{
+	background-color: #56b3ff;
+	color: #56b3ff;
+}
+.freeInstals{
+	background-color: #F289F2;
+	color: #F289F2;
+}
+.proUsers{
+	background-color: #ff81e5;
+	color: #ff81e5;
+}
+.circle{
+	background-color: #fff;
+	border-radius: 50%;
+	height: 62px;
+	width: 62px;
+	text-align: center;
+	line-height: 62px;
+	font-size: 25px;
+}
